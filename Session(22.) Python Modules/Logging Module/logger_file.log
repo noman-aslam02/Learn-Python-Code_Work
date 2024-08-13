@@ -1,0 +1,5 @@
+2024-06-02 23:46:28,457 - DEBUG - strong_logger - 110
+2024-06-02 23:46:28,457 - INFO - strong_logger - ('Noman', 'Aslam')
+2024-06-02 23:46:28,457 - ERROR - strong_logger - can not divide with zero value
+2024-06-02 23:46:28,457 - WARNING - strong_logger - this is warning message
+2024-06-02 23:46:28,457 - CRITICAL - strong_logger - this is critical message 

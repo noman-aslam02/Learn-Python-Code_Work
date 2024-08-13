@@ -1,0 +1,10 @@
+2024-06-02 23:46:28,457 - DEBUG - I am 'Debugging' Logging
+2024-06-02 23:46:28,457 - INFO - I am 'Information' Logging
+2024-06-02 23:46:28,457 - WARNING - I am 'Warning' Logging
+2024-06-02 23:46:28,457 - ERROR - I am 'Error' Logging
+2024-06-02 23:46:28,457 - CRITICAL - I am 'Critical' Logging
+2024-06-02 23:46:28,457 - DEBUG - 110
+2024-06-02 23:46:28,457 - INFO - ('Noman', 'Aslam')
+2024-06-02 23:46:28,457 - ERROR - can not divide with zero value
+2024-06-02 23:46:28,457 - WARNING - this is warning message
+2024-06-02 23:46:28,457 - CRITICAL - this is critical message 
